@@ -1,0 +1,19 @@
+.Container{
+    background-color: #17181F;
+    color: #797A81;
+    min-height: 100vh;
+
+    .Area{
+        margin: auto;
+        max-width: 980px;
+        padding: 10px;
+    }
+    .Header{
+        margin: 0;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+        border-bottom: 1px solid #6478;
+        padding-bottom: 20px;
+    }
+}
